@@ -9,3 +9,5 @@ CFW/skin/settings.json
 
 	"text-alignment": "center",
 	"text-margin": 16,
+
+Shoutout to midnightfox (https://github.com/midnitefox) for his awesome work.
